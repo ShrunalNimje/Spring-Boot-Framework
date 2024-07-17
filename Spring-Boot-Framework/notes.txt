@@ -1,0 +1,9 @@
+level of logging : 
+1. trace --> prints everything in console 1, 2, 3, 4, 5
+2. debug --> prints everything in console 2, 3, 4, 5
+3. info --> prints everything in console 3, 4, 5
+4. warning --> prints everything in console 4, 5
+5. error --> prints everything in console 5
+6. off --> prints nothing in console
+
+[INFO] Building jar: C:\Users\Shrunal\eclipse-workspace\Spring-Boot-Framework\target\Spring-Boot-Framework-0.0.1-SNAPSHOT.jar

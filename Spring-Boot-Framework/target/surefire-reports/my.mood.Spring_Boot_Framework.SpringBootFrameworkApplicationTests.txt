@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: my.mood.Spring_Boot_Framework.SpringBootFrameworkApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.431 s -- in my.mood.Spring_Boot_Framework.SpringBootFrameworkApplicationTests
